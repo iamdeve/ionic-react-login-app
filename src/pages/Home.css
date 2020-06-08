@@ -1,0 +1,42 @@
+.Heart {
+	background-color: red;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 60px;
+	height: 60px;
+	text-align: center;
+	border-radius: 50px;
+}
+.Wrapper {
+	display: flex;
+	justify-content: center;
+	flex-flow: column;
+	align-items: center;
+	width: 100%;
+	height: 100%;
+	background-color: #fafbff;
+	background: url('../assets/bg.jpeg');
+	background-position: center;
+	background-size: cover;
+}
+.Circle {
+	width: 68px;
+	height: 68px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border: 1px solid red;
+	border-radius: 50px;
+	text-align: center;
+}
+.Circle1 {
+	width: 75px;
+	height: 75px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border: 1px solid red;
+	border-radius: 50px;
+	text-align: center;
+}
